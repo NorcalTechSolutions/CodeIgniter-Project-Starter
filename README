@@ -1,0 +1,13 @@
+#########################################
+CodeIgniter PHP Framework Project Starter
+#########################################
+
+
+
+There Are A Few Configuration Changes To Do After Pulling This To Your Development Environement
+
+1) /application/config/database.php - Add Your Database Info (Database Library Already Autoloads)
+
+2) /application/libraries/krumo.ini - Change Krumo URL to match your server settings (krumo Library Already Autoloads)
+
+Thats It! Your Ready To Rock And Roll With CodeIgniter 2.1 
