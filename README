@@ -2,8 +2,6 @@
 CodeIgniter PHP Framework Project Starter
 #########################################
 
-
-
 There Are A Few Configuration Changes To Do After Pulling This To Your Development Environement
 
 1) /application/config/database.php - Add Your Database Info (Database Library Already Autoloads)
